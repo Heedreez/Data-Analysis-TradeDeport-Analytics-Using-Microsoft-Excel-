@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Heedreez
+- 👋 Hi, I’m @Idris
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on different data projects to help make data driven decisions
